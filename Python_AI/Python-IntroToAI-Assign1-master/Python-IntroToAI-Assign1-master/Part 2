@@ -1,0 +1,14 @@
+Part 2: (20 points) Monkey and Bananas. This is a classic toy problem. For this version, let's assume the following: Some bananas are hanging from the ceiling in the center of the room. There is a chair in one corner, and a stick on the floor. If the monkey stands on the chair under the bananas, he can hit the bananas with the stick and knock them down. Our state will have the following variables:
+
+holdingStick
+chairInMiddle
+onChair
+Our initial state is: <!holdingStick, !chairInMiddle, !onChair>
+
+Our actions are: grabStick, moveChair, dropStick, getOnChair, getOffChair. moveChair will move the chair from the corner to the middle, or vice versa. Actions that don't make a change have no effect. (for example, grabStick when already holding the stick.)
+
+a) what is the goal state?
+<holdingStic, chairInMiddle, onChair>
+
+b) Draw the state space for this problem. You can leave out actions that don't change the state. (For example, grabbing the stick when you already have the stick.)
+

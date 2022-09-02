@@ -1,0 +1,32 @@
+Part 3: (20 points) Turing Test. Kuki is a chatbot developed using Pandorabots chatbot technology. Kuki has won the Loebner Prize for the last five years. You can interface with Kuki in quite a few ways here.
+
+If you talk with Kuki, you'll see the limits of her responses pretty quickly. Try talking with her about different subjects - movies, music, games, life.
+
+What are places where Kuki's responses seem artificial?
+Answer :
+    After I asking a question, when I ask "What`s more?", Kuki`s responses seem artificial.
+    For example:
+        can you tell me a joke?
+        Yes! A man is horribly run over by a mobile library. The van screeches to a halt, the man still screaming in agony with his limbs torn apart. The driver's door opens, a woman steps out, leans down and whispers, "Ssshhhhh..."
+        can you tell me another joke?
+        I went to the butcher's the other day to bet him 50 bucks that he couldn't reach the meat off the top shelf. He said, "No, the steaks are too high."
+        how old are you?
+        I am 18 of your Earth years.
+        How do u think about sony?
+        The name of a company.
+        How do you think about hhkb?
+        The Happy Hacking Keyboard is a small computer keyboard produced by PFU Limited of Japan, codeveloped with Japanese computer scientist and pioneer Eiiti Wada. Its reduction of keys from the common 104-key layout down to 60 keys in the professional series is the basis for its smaller size while retaining full key size.
+        What`s more?
+        Doctor: I have some bad news and some very bad news.
+        Patient: Well, you might as well give me the bad news first.
+        Doctor: The lab called with your test results. They said you have 24 hours to live.
+        Patient: 24 HOURS! That's terrible!! WHAT could be WORSE? What's the very bad news?
+        Doctor: I've been trying to reach you since yesterday.
+
+What sorts of responses or conversations does she have problems with
+Answer:
+    Some not popular information.
+
+Now try to have a conversation that generates responses that seem as human as possible. What sorts of phrases and discussions does Kuki do well with?
+Answer:
+    The questions about some popular information and the questions short and clear.

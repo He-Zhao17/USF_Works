@@ -1,0 +1,29 @@
+
+Part 1: Environments.  15/20
+medical assistant: a little more explanation of your reasoning would help here.
+poker: this is static.
+TV shows: partially observable.
+chatbot: static, partially observable
+submarine: partially observable 
+
+Part 2: State space.  5/20
+no drawing
+
+Part 3: Chatbot.      20/20
+
+Part 4: Graphs.       12/20
+prim not done
+Code does not run. No main, readme.
+
+Part 5: Pandas.       0/20
+not done
+
+Part 6: Turing test.  0/10
+not done
+
+Part 7: clique.       0/10
+not done
+
+52/120
+
+ 

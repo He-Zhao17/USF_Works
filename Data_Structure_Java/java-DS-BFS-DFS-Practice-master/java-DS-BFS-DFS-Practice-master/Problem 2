@@ -1,0 +1,28 @@
+(2.1) c
+(2.2)
+    Inorder traversal for tree(a):
+        0 1 2 3 7 6 0 8 2 9
+    Inorder traversal for tree(b):
+        10 11 90 43 78 89 77 56
+    Inorder traversal for tree(c):
+        4 11 15 67 87
+    Inorder traversal for tree(d):
+        8 45 67 14 31 29 26
+(2.3)
+    Preorder traversal for tree(a):
+        6 3 1 0 2 7 9 8 0 2
+    Preorder traversal for tree(b):
+        78 90 11 10 43 77 89 56
+    Preorder traversal for tree(c):
+        15 11 4 67 87
+    Preorder traversal for tree(d):
+        45 8 14 67 29 31 26
+(2.4)
+    Postorder traversal for tree(a):
+        0 2 1 7 3 0 2 8 9 6
+    Postorder traversal for tree(a):
+        10 11 43 90 89 56 77 78
+    Postorder traversal for tree(a):
+        4 11 87 67 15
+    Postorder traversal for tree(a):
+        8 67 31 26 29 14 45

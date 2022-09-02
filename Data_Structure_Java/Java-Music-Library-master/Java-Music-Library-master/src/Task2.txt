@@ -1,0 +1,29 @@
+s1:
+    name: Here Comes The Sun
+    artist: The Beatles
+    timesPlayed: null
+
+s2:
+    name: Tomorrow Never Knows
+    artist: The Beatles
+    timesPlayed: null
+
+s3:
+    name: Something
+    artist: The Beatles
+    timesPlayed: null
+
+a1:
+    name: The Beatles
+    songs: Here Comes The Sun, Tomorrow Never Knows, Something
+    albums: Abbey Road, ""(album2)
+
+album1:
+    name: Abbey Road
+    artist: The Beatles
+    songs: Here Comes The Sun, Tomorrow Never Knows, Something
+
+album2:
+    name:
+    artist:
+    songs:

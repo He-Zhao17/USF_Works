@@ -1,0 +1,16 @@
+Problem 4: Consider the following function:
+
+public int func1(int n) {
+	if (n <= 1)
+		return 1;
+	else
+		return func(n - 1) + func(n - 1) + func(n - 1);
+}
+
+(a) Give a recurrence relation for this function.
+
+(b) Solve the recurrence relation using repeated substitution or recursion trees to get the big Theta of the running time.
+
+Submit your solution here or via Canvas.
+
+

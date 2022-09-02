@@ -1,0 +1,32 @@
+Consider the following potential AI problems. For each of them, describe whether the environment is: a) static or dynamic b) fully or partially observable c) episodic or sequential d) deterministic or stochastic. Please explain your reasoning.
+
+A robotic medical assistant that can assist a doctor or nurse. It communicates with patients, administers bloodwork, and takes vitals.
+Answer:
+a) Static. Just Analyse the data.
+b) Partially observable. We just need the result.
+c) Episodic. We just need every result.
+d) Deterministic. The result has to be true.
+
+An agent that plays poker against a human player. Assume that the cards are digital, and that the player interacts with the agent via a touchscreen.
+a) Dynamic. We need to interactive with the game.
+b) Partially observable. We just need to know what the AI choose.
+c) Sequential. We should sequentially play with the AI.
+d) Stochastic. We do not need the actual AI.
+
+An agent that can select TV shows and movies for a user. It watches the user's choices, asks the user to rate shows, and gives new shows the user is predicted to like.
+a) Dynamic. We need it to analyse our data sequentially.
+b) Fully observable. We need to know how the result born.
+c) Sequential. We need it to analyse out data sequentially.
+d) Deterministic. We need a actual path to get the result.
+
+A digital chatbot for diagnosing mental health issues. It interacts with the user via SMS and makes a prediction about their mental health based on responses.
+a) Dynamic. We need it to analse the data sequentially and change itself sequentially.
+b) Fully observable. We need to know how the result born.
+c) Sequential. We need it to analyse out data sequentially.
+d) Deterministic. We need a actual path to get the result.
+
+A robotic submarine for scientific exploration. It's able to autonomously travel to the ocean floor and collect samples.
+a) Dynamic. We need to change it sequentially.
+b) Fully observable. We need to control it and check where there are some wrongs.
+c) Sequential. We need to control it sequentially.
+d) Stochastic. We just want the result and whatever the result is.
